@@ -7,4 +7,4 @@
   <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <div>
 
-![Snake animation](https://github.com/L3ndry/L3ndry/blob/main/workflow/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/L3ndry/L3ndry/blob/main/workflow/github-contribution-grid-snake.svg)
