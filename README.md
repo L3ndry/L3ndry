@@ -2,4 +2,4 @@
 
 [![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=L3ndry&theme=radical&show_icons=true))]
 
-<a href="https://www.instagram.com/__lndry/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/__lndry/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
