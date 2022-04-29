@@ -1,5 +1,3 @@
-<h2>Leandro</h2>
-<hr>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=L3ndry&theme=radical&show_icons=true" height="180px" width="400px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3ndry&layout=compact&langs_count=16&theme=dracula" height="180px" width="400px">
