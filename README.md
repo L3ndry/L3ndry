@@ -1,4 +1,4 @@
-<hr>
+<hr><br>
 <div align="center">
   <img src="https://img.shields.io/static/v1?label=Overview&message=L3ndry&color=f8efd4&style=for-the-badge&logo=GitHub">
 
@@ -10,4 +10,5 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
+<br>
 <hr>
